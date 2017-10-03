@@ -1,0 +1,101 @@
+{\rtf1\ansi\ansicpg932\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset128 .HiraKakuInterface-W3;}
+{\colortbl;\red255\green255\blue255;\red53\green53\blue53;}
+{\*\expandedcolortbl;;\cssrgb\c27059\c27059\c27059;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh14540\viewkind0
+\deftab560
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\fs24 \cf2 Let
+\f1 \'81\'66
+\f0 s  move on the second topics
+\f1 ;
+\f0  What can we do
+\f1 ?
+\f0 \
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 \
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1 \cf2 \'81\'60\'81\'60\'81\'60
+\f0 \
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 \
+\pard\pardeftab560\slleading20\partightenfactor0
+\cf2 We add each other's items to each other's product master database. This is a way to make little change to the current system.\
+Because we do not make changes mostly
+\f1 ,
+\f0  initial cost will be lower. However
+\f1 ,
+\f0  the running cost is high because two sites are running.\
+And although it is customer stress
+\f1 ,
+\f0  nothing changes for customers in this plan. So nothing.\
+\
+Sorry for the radical comments
+\f1 ,
+\f0  we stop the Comtech site and integrate it on the PCS site.\
+The initial cost increases because one site will respond to requests from both Japan and the United States. Also
+\f1 ,
+\f0  the cost of migration is not cheap.\
+However
+\f1 ,
+\f0  considering that it will continue for decades from now
+\f1 ,
+\f0  it is always expensive to make similar updates to both sites.\
+Unfortunately
+\f1 ,
+\f0  if the identity of the customer of PCS and Comptech overlap
+\f1 ,
+\f0  Comptech's customers has to re-register.\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 \
+\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1 \cf2 \'81\'60\'81\'60\'81\'60
+\f0 \
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 \
+\pard\pardeftab560\slleading20\partightenfactor0
+\cf2 We propose a system integration plan\
+It is because the long-term cost is low and synergistic effect can be expected\
+However
+\f1 ,
+\f0  there are problems that can not be ignored
+\f1 ,
+\f0  such as initial cost and customer's stress on Comptech\
+\
+First of all
+\f1 ,
+\f0  we will implement a point-back campaign.\
+It is aimed at overcoming the stress that Comptech customers stop using the familiar site and use the new PCS site.\
+We will give ten times more points to those who moved from Comptech to PCS during the transition period of three months.\
+It seems like a big cost for a three-month point 10 times. However
+\f1 ,
+\f0  the total cost will be higher by running cost
+\f1 ,
+\f0  taking longer transition period.\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 \
+\pard\pardeftab560\slleading20\partightenfactor0
+\cf2 Search Engine Optimization is to display high-ranked keywords with aimed keywords in search results of search engines such as Google and Yahoo!.\
+SEO in Japanese is essential in order to successfully sell your products in Japan.\
+Our company has SEO experts. Please let me help you.\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 \
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1 \cf2 \'81\'60\'81\'60\'81\'60
+\f0 \
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 \
+\pard\pardeftab560\slleading20\partightenfactor0
+\cf2 In order to sell our goods in the US
+\f1 ,
+\f0  we need to add these online payment options to our EC site.\
+PayPal and ApplePay are already in widespread use in Japan and have already been applied on our site
+\f1 ,
+\f0  but recently Venmo is very popular in the USA
+\f1 ,
+\f0  so we plan to apply it.}
